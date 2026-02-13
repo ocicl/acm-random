@@ -1,0 +1,9 @@
+* acm-random
+
+ACM random number generator for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/brown/random.git   |
+| commit  | 761db78                                   |
+| systems | acm-random                                |
+|---------+-------------------------------------------|
