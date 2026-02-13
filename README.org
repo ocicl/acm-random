@@ -4,6 +4,6 @@ ACM random number generator for Common Lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/brown/random.git   |
-| commit  | 761db78                                   |
+| commit  | ec0e4ae                                   |
 | systems | acm-random                                |
 |---------+-------------------------------------------|
